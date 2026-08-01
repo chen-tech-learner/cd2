@@ -1,6 +1,42 @@
 {
   "lives": [
     {
+      "key": "豆儿猫源",
+      "name": "豆儿猫源",
+      "type": 3,
+      "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "牛二猫源",
+      "name": "牛二猫源",
+      "type": 3,
+      "api": "https://9280.kstore.vip/cat/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "4TV解析",
+      "name": "4TV解析",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+      "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+      "searchable": 1
+    },
+    {
+      "key": "雪乃猫源",
+      "name": "雪乃猫源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "Lmentor猫源",
+      "name": "Lmentor猫源",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
+      "searchable": 1
+    },
+    {
       "name": "1",
       "type": 0,
       "url": "http://ll14s7fe.zjz-service.cn:23588/sub?IEd12PJu=m3u"
