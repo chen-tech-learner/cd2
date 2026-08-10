@@ -1,28 +1,28 @@
-﻿{
+{
   "sites": [
-       {
-        "key": "cat_douer",
-        "name": "豆儿猫源",
-        "type": 3,
-        "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
-        "searchable": 1
-     },
-     {
-       "key": "cat_niu2",
-       "name": "牛二猫源",
-        "type": 3,
-       "api": "https://9280.kstore.vip/cat/index.js",
-       "searchable": 1
-     },
-     {
-     "key": "cat_4tv",
-     "name": "4TV解析",
-     "type": 3,
-     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
-     "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
-     "searchable": 1
-     },
-     {
+    {
+      "key": "cat_douer",
+      "name": "豆儿猫源",
+      "type": 3,
+      "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "cat_niu2",
+      "name": "牛二猫源",
+      "type": 3,
+      "api": "https://9280.kstore.vip/cat/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "cat_4tv",
+      "name": "4TV解析",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+      "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+      "searchable": 1
+    },
+    {
       "key": "cat_xuenai",
       "name": "雪乃猫源",
       "type": 3,
@@ -35,7 +35,7 @@
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
       "searchable": 1
-    }, 
+    },
     {
       "key": "lbzy1",
       "name": " ❤乐播资源1",
@@ -724,8 +724,8 @@
       "ext": "http://itvbox.cc/sft/xBPQ/色花堂xbpq.json",
       "jar": "http://itvbox.cc/sft/jar/xbpq新版.jar"
     },
- {
-       "key": "didiz1111",
+    {
+      "key": "didiz1111",
       "name": "🔞4K",
       "type": 1,
       "api": "https://av1.av1993.top/api.php/provide/vod/?ac=list",
@@ -754,8 +754,6 @@
       ]
     },
     {
-
-
       "key": "XMVideo",
       "name": "🔞熊猫视频",
       "type": 3,
@@ -782,7 +780,6 @@
       "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar"
     },
     {
-      
       "key": "didi",
       "name": "💕滴滴(直连)",
       "type": 1,
@@ -1029,7 +1026,6 @@
       "searchable": 0,
       "quickSearch": 0
     },
-
     {
       "key": "Bili",
       "name": "🅱哔哔合集┃弹幕",
@@ -1140,8 +1136,274 @@
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
       }
     }
-
   ],
-  "logo": "",
-  "lives": [  ]
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "云解",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "淘片",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "七七",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播1",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "timeout": 15
+    },
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ameria22/TV/refs/heads/main/data/01%E5%9B%BD%E4%BA%A7%E7%9B%B4%E6%92%AD_20260417_024507.m3u",
+      "timeout": 15
+    },
+    {
+      "name": "直播3",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ameria22/TV/refs/heads/main/data/01%E5%9B%BD%E4%BA%A7%E7%B2%BE%E5%93%81_20260417_024507.m3u",
+      "timeout": 15
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ]
 }
