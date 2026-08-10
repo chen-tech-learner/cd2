@@ -852,30 +852,6 @@
       "quickSearch": 0
     },
     {
-      "key": "cmerq1",
-      "name": "🔞传媒1区",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.34gaobk.com/index.html",
-        "数组": "<div class=\"card mb-0\">&&</a",
-        "标题": "atl=\"&&\"",
-        "副标题": "img-tag\">&&</div>",
-        "简介": "document.title='&&'",
-        "直接播放": "1",
-        "搜索模式": "1",
-        "搜索url": "https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/",
-        "分类数组": "<a&&/a>",
-        "分类标题": ">&&<",
-        "分类ID": "/gaotype/&&.html",
-        "分类url": "https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"
-      },
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"
-    },
-    {
       "key": "cm2q",
       "name": "🔞传媒2区",
       "type": 1,
@@ -1228,7 +1204,7 @@
     {
       "name": "直播1",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cdlongbow/atsushi444-iptv/refs/heads/main/xxx.m3u",
       "timeout": 15
     },
     {
